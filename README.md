@@ -1,4 +1,5 @@
-## This project evaluates gender-based fairness in a binary loan approval model. Rather than focusing solely on accuracy, the analysis examines error distribution across demographic groups to identify potential algorithmic bias.
+## This project evaluates gender-based fairness in a binary loan approval model
+##Rather than focusing solely on accuracy, the analysis examines error distribution across demographic groups to identify potential algorithmic bias.
 
 # Dataset
 
@@ -70,6 +71,6 @@ Scikit-learn
 
 This project demonstrates the importance of critical evaluation in machine learning, especially when models are used in decision-making systems that affect people.
 
-# author
+# Author
 TurtleTheCasualCoder
 (anshul)
