@@ -1,5 +1,4 @@
-## This project evaluates gender-based fairness in a binary loan approval model
-##Rather than focusing solely on accuracy, the analysis examines error distribution across demographic groups to identify potential algorithmic bias.
+## This project evaluates gender-based fairness in a binary loan approval model rather than focusing solely on accuracy, the analysis examines error distribution across demographic groups to identify potential algorithmic bias.
 
 # Dataset
 
